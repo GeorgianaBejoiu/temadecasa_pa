@@ -1,6 +1,6 @@
 # temadecasa_pa
 Autor:Bejoiu Roxana-Georgiana
-#1.Enunțul problemei
+- 1.Enunțul problemei
 Avem sarcina de a dezvolta un algoritm pentru un editor de cod
 avansat care să corecteze automat erorile de sintaxă din limbajele de
 programare. Se presupune că primim o specificație clară a sintaxei
